@@ -6,6 +6,7 @@ before_install:
   - sudo apt-get update -qq
 
 install: 
+  - sudo apt-get install apt-show-versions
   - sudo apt-get install -qq g++-5  
   - sudo apt-get install libsfm* -y --force-yes
   # sfml-window
@@ -24,4 +25,7 @@ install:
   - sudo apt-get install libflac-dev -y
   - sudo apt-get install libvorbis-dev -y
 
-script: ./build.sh
+script: 
+ - ./build.sh
+ - ls
+ - apt-show-versions libsfml-dev
