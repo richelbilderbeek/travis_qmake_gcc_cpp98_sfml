@@ -2,4 +2,4 @@
 rm *.o
 rm Makefile
 rm *.pro.user
-rm travis_qmake_gcc_cpp98
+rm travis_qmake_gcc_cpp98_sfml
