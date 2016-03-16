@@ -1,0 +1,5 @@
+language: cpp
+compiler: gcc
+install:
+  - sudo apt-get install libsfml-dev
+script: ./build.sh
