@@ -7,10 +7,7 @@ before_install:
   - sudo apt-get update -qq
 
 install: 
-  - sudo apt-get install apt-show-versions
   - sudo apt-get install libsfml-dev
 
 script: 
  - ./build.sh
- - ls
- - apt-show-versions libsfml-dev
