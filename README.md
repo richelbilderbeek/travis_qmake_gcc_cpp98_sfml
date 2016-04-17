@@ -16,6 +16,9 @@ The goal of this project is to have a clean Travis CI build, with specs:
 
 More complex builds:
  * Use of C++11: [travis_qmake_gcc_cpp11_sfml](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp11_sfml)
+ * Use of C++14: [travis_qmake_gcc_cpp14_sfml](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_sfml)
 
 Less builds:
  * Use of STL only: [travis_qmake_gcc_cpp98](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98)
+
+![Screenshot of travis_qmake_gcc_cpp98_sfml](travis_qmake_gcc_cpp98_sfml.png)
