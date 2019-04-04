@@ -1,8 +1,9 @@
 # travis_qmake_gcc_cpp98_sfml
 
-[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
-
-[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_sfml.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_sfml)
+Branch   |[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+---------|--------------------------------------------------------
+`master` |[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_sfml.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_sfml)
+`develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_sfml.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_sfml)
 
 This GitHub is part of [the Travis C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial).
 

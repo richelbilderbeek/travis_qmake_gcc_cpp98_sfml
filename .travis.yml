@@ -3,10 +3,6 @@ compiler: gcc
 sudo: true
 dist: xenial
 
-before_install:
-  - sudo apt-add-repository ppa:sonkun/sfml-development --yes
-  - sudo apt-get update -qq
-
 install: 
   - sudo apt-get install libsfml-dev
 
