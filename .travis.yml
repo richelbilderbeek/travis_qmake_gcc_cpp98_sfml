@@ -1,7 +1,7 @@
 language: cpp
+dist: xenial
 compiler: gcc
 sudo: true
-dist: xenial
 
 install: 
   - sudo apt-get install libsfml-dev
