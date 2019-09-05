@@ -1,9 +1,14 @@
 language: cpp
 dist: bionic
 compiler: gcc
+<<<<<<< HEAD
 sudo: true
+=======
+>>>>>>> develop
 
 install: 
+  - sudo apt update -qq
+  # SFML
   - sudo apt-get install libsfml-dev
 
 services:
